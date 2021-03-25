@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b7e3040-f043-4cf1-907e-452046b6e4ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../project/Maven_RemoteSync/src/main/java/org/sync/business/ServerBusiness.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../kafkaProducer/src/main/java/com/zcj/nettyServer/ServerBusiness.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1j4YCQilEp5KgD6msUe9MTrKVjF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kafkaProducer/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.47126436" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zcj.nettyClinet.tools" />
+      <recent name="com.zcj.nettyClinet.deblock" />
+      <recent name="com.zcj.nettyClinet" />
+      <recent name="com.zcj.nettyServer" />
+      <recent name="com.zcj.nettyServer.tools" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\kafkaProducer\src\main\java\com\zcj\nettyServer\tools" />
+      <recent name="E:\project\nettyKafkaClient\src\main\java\com\zcj\nettyClinet" />
+      <recent name="E:\project\kafkaProducer\src\main\java\com\zcj\nettyServer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestScala">
+    <configuration name="KafkaWordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.zcj.wc.KafkaWordCount" />
+      <module name="flinkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zcj.wc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestScala" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestScala" />
+      <module name="flinkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="clientMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zcj.nettyClinet.clientMain" />
+      <module name="nettyKafkaClient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zcj.nettyClinet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="serverMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zcj.nettyServer.serverMain" />
+      <module name="kafkaProducer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zcj.nettyServer.handleSync.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testMain" />
+      <module name="nettyKafkaClient" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestScala" />
+        <item itemvalue="Application.clientMain" />
+        <item itemvalue="Application.serverMain" />
+        <item itemvalue="Application.testMain" />
+        <item itemvalue="Application.KafkaWordCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b7e3040-f043-4cf1-907e-452046b6e4ef" name="Default Changelist" comment="" />
+      <created>1603064702385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603064702385</updated>
+      <workItem from="1603064705307" duration="2899000" />
+      <workItem from="1603070548230" duration="1323000" />
+      <workItem from="1603071887128" duration="350000" />
+      <workItem from="1603072249184" duration="4292000" />
+      <workItem from="1603150312767" duration="3588000" />
+      <workItem from="1603154213861" duration="3318000" />
+      <workItem from="1603237392606" duration="14295000" />
+      <workItem from="1603322988380" duration="16013000" />
+      <workItem from="1603410051886" duration="600000" />
+      <workItem from="1603496949456" duration="3133000" />
+      <workItem from="1603590794867" duration="6174000" />
+      <workItem from="1603752160234" duration="28820000" />
+      <workItem from="1603849930299" duration="600000" />
+      <workItem from="1603929741159" duration="9950000" />
+      <workItem from="1604053861307" duration="9981000" />
+      <workItem from="1604275190702" duration="4997000" />
+      <workItem from="1604358955858" duration="9751000" />
+      <workItem from="1604458106815" duration="2073000" />
+      <workItem from="1604912587396" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Inspections" timestamp="1603763352636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1603763352636" />
+    <state x="552" y="178" key="#Live_Templates" timestamp="1603074300615">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Live_Templates/0.0.1920.1040@0.0.1920.1040" timestamp="1603074300615" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1603768605361">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1603768605361" />
+    <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1604359190136">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604359190136" />
+    <state x="765" y="218" key="#com.intellij.ide.util.MemberChooser" timestamp="1604360441837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="218" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604360441837" />
+    <state x="580" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1603073495117">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="580" y="198" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603073495117" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603256205022">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603256205022" />
+    <state width="504" height="569" key="DebuggerActiveHint" timestamp="1604366288194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="504" height="569" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1604366288194" />
+    <state x="707" y="235" key="DetectedRootsChooserDialog" timestamp="1603154868243">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="235" key="DetectedRootsChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603154868243" />
+    <state x="634" y="260" key="FileChooserDialogImpl" timestamp="1604912601471">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="634" y="260" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604912601471" />
+    <state width="1877" height="208" key="GridCell.Tab.0.bottom" timestamp="1604498375207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604498375207" />
+    <state width="1877" height="208" key="GridCell.Tab.0.center" timestamp="1604498375207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="208" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604498375207" />
+    <state width="1877" height="208" key="GridCell.Tab.0.left" timestamp="1604498375207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="208" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604498375207" />
+    <state width="1877" height="208" key="GridCell.Tab.0.right" timestamp="1604498375207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="208" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604498375207" />
+    <state width="1877" height="243" key="GridCell.Tab.1.bottom" timestamp="1604415738520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604415738520" />
+    <state width="1877" height="243" key="GridCell.Tab.1.center" timestamp="1604415738520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604415738520" />
+    <state width="1877" height="243" key="GridCell.Tab.1.left" timestamp="1604415738520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604415738520" />
+    <state width="1877" height="243" key="GridCell.Tab.1.right" timestamp="1604415738520">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="243" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604415738520" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1603330438565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603330438565" />
+    <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1603066287245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1603066287245" />
+    <state x="636" y="119" width="647" height="801" key="find.popup" timestamp="1604057059594">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="119" width="647" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604057059594" />
+    <state x="334" y="215" key="new project wizard" timestamp="1603244809921">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="215" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603244809921" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603930894029">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603930894029" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../nettyKafkaClient/src/main/java/com/zcj/nettyClinet/ClientBusiness.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../nettyKafkaClient/src/main/java/com/zcj/nettyClinet/ClientBusiness.java</url>
+          <line>120</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../nettyKafkaClient/src/main/java/com/zcj/nettyClinet/ClientBusiness.java</url>
+          <line>128</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../nettyKafkaClient/src/main/java/com/zcj/nettyClinet/deblock/GetShadowDataThread.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../nettyKafkaClient/src/main/java/testMain.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../kafkaProducer/src/main/java/com/zcj/nettyServer/handleSync/TempHandleSync.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../kafkaProducer/src/main/java/com/zcj/nettyServer/handleSync/TempHandleSync.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
